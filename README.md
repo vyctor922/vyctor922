@@ -3,6 +3,7 @@
 📍 Rio Branco, Acre - Brazil
 
 📚 Bachelor of Information Systems course at the Federal University of Acre.
+
 🚀 CEO in the startup [Todoneo](www.github.com/todoneo).
 <!-- - 🤔 Looking for opportunity as a Programmer. -->
 
