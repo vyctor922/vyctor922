@@ -2,9 +2,8 @@
 
 📍 Rio Branco, Acre - Brazil
 
-📚 Currently enrolled in Bachelor of Information Systems course at the Federal University of Acre.
-🔭 I’m currently working as a researcher at the Laboratory of Applied Research Project on Vision and Computational Intelligence (PAVIC) at the Federal University of Acre (UFAC).
-🚀 Working on a project with the [Neo Team](www.github.com/neo-team-org).
+📚 Bachelor of Information Systems course at the Federal University of Acre.
+🚀 CEO in the startup [Todoneo](www.github.com/todoneo).
 <!-- - 🤔 Looking for opportunity as a Programmer. -->
 
 🌱 I like to work and study with C++, PHP and Python. Actually I'm working more with Spring Boot, Angular and NodeJS.
